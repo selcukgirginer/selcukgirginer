@@ -31,12 +31,7 @@ I have been dealing with electronic devices for 12-14 years and software develop
       <a href="https://reactjs.org/"><img align="left" alt="React JS | React" width="40px" src="https://img.icons8.com/office/344/react.png"></a>
       <a href="https://firebase.google.com/"><img align="left" alt="React JS | React" width="40px" src="https://img.icons8.com/color/344/firebase.png"></a>
       <a href="https://www.mysql.com/"><img align="left" alt="React JS | React" width="40px" src="https://img.icons8.com/fluency/344/mysql-logo.png"></a>
-      
-      
-      
-      
-      
-   
+
 <!--
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
@@ -59,16 +54,3 @@ I have been dealing with electronic devices for 12-14 years and software develop
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
-[flutter]: https://flutter.dev/
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
