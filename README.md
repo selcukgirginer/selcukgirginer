@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47o5de7e1pd5woyvo7y70apuj8ddml1vfemmrfimqf&rid=giphy.gif&ct=g" width="500" height="320" />
 
 ## I'm an Engineering Student 👨‍🎓, Front End Developer 🚀, Game Developer 🎮!
-Hello, I'm Mustafa Selcuk Girginer. <br>
+Hello,<br> I'm Mustafa Selcuk Girginer. <br>
 I am a 3rd year student at Karadeniz Technical University Forest Industry Engineering, and a 2nd year student at Anadolu University Management Information Systems.<br>
 I have been dealing with electronic devices for 12-14 years and software development for 8-9 years. In addition to these, I am dealing with electronics.
 <br />
